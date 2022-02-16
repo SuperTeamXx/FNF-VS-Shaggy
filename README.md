@@ -1,2 +1,3 @@
 # FNF-VS-Shaggy
-This is for testing
+
+You can FNF VS Shaggy right now [here!] (
